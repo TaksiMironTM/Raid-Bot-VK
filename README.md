@@ -1,4 +1,4 @@
-# NASTYABOT
+#  Raid-Bot-VK 
 Привет таксист!
 
 [Создатель скрипта](https://vk.com/id404358486)
