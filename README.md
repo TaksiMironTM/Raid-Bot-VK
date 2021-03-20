@@ -1,7 +1,9 @@
 # NASTYABOT
 Привет таксист!
 
-[Создатель скрипта](https://vk.com/id559433773)
+[Создатель скрипта](https://vk.com/id404358486)
+
+Спамит фотографиями!!!
 
 # Инструкция для Windows:
 
@@ -17,7 +19,7 @@
 
 6. Перейти в папку со скриптом через терминал:
 ```sh
-cd путь/до/папки/nastyabot
+cd путь/до/папки/Raid-Bot-VK
 ```
 
 7. Пропишите команду:
@@ -40,7 +42,7 @@ pkg update && pkg upgrade
 pkg install python
 pkg install git
 git clone https://github.com/TaksiMironTM/nastyabot
-cd nastyabot
+cd Raid-Bot-VK
 pip install -r requirements.txt
 ```
 
