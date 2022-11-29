@@ -9,9 +9,9 @@ import preview
 NASTYA = ["photo-140929_13730091", "photo559433773_457247408", "photo22505982_457239732"] #Можете добавлять свои фото - ["photo123_123", "photo123_123", "photo123_123", "photo123_123", "photo123_123"] - вот так
 
 
-vk_session = vk_api.VkApi(token='ТОКЕН') #Замените ТОКЕН на token от группы 
+vk_session = vk_api.VkApi(token='ТОКЕН') #Замени ТОКЕН на token от группы 
 vk = vk_session.get_api()
-longpoll = VkBotLongPoll(vk_session,123) #Замените 123 на ID от группы 
+longpoll = VkBotLongPoll(vk_session,123) #Замени 123 на ID от группы 
 def main():
 
 	keyboard = VkKeyboard(one_time=False) 
